@@ -1,4 +1,5 @@
-**This Fork of Bruienne's bsdpy fixes a glitch if you are using all IPs and no DNS**
+*This Fork of Bruienne's bsdpy fixes a glitch if you are using all IPs and no DNS.
+I will submit a PR to his eventually, though I'm not sure that it isn't abandonware at this point*
 
 BSDPy 1.0
 =========
