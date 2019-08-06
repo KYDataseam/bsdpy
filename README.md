@@ -1,3 +1,5 @@
+**This Fork of Bruienne's bsdpy fixes a glitch if you are using all IPs and no DNS**
+
 BSDPy 1.0
 =========
 
